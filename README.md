@@ -22,7 +22,7 @@ Real-time drowsiness monitoring via webcam with an audible alert.
 ## Quick start (clone, install, run)
 ```bash
 # 1) Clone the repository
-git clone <YOUR_REPO_URL> drowsiness-detection
+git clone https://github.com/riteekagawand/Drowsiness_Detection
 cd drowsiness-detection
 
 # 2) (Optional) Create and activate a virtual environment
